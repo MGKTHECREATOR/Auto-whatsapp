@@ -1,2 +1,2 @@
 import pywhatkit as kit  
-kit.sendwhatmsg("+91 9698944887", "HBD 🎂🥳", 20, 47)
+kit.sendwhatmsg("+91 00000 00000", "HBD 🎂🥳", 20, 47)
